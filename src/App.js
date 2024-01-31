@@ -94,7 +94,7 @@ function Loader() {
 }
 
 function Header({ showForm, setShowForm }) {
-  const appTitle = "Today I Learned";
+  const appTitle = "FactualHub";
   return (
     <header className="header">
       <div className="logo">
