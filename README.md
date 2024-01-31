@@ -27,13 +27,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Anuj0x1/Today-I-Learned-.git
+  git clone https://github.com/Anuj0x1/FactualHub-.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Today-I-Learned
+  cd FactualHub
 ```
 
 Install dependencies
